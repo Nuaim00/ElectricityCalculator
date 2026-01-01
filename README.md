@@ -12,7 +12,7 @@ A vanilla PHP app to calculate:
 
 
 
-\## Formula
+\# Formula
 
 \- Power (W) = Voltage (V) × Current (A)
 
@@ -24,9 +24,7 @@ A vanilla PHP app to calculate:
 
 
 
-\## Run using XAMPP/WAMP/Laragon
+\# Run using XAMPP/WAMP/Laragon
 
 http://localhost/ElectricityCalculator/index.php
-
-
 
