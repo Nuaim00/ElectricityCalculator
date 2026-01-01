@@ -30,5 +30,3 @@ Put the folder in your web server root, then open:
 
 http://localhost/kiraelektrik/index.php
 
-
-
