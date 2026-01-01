@@ -28,5 +28,7 @@ A vanilla PHP app to calculate:
 
 Put the folder in your web server root, then open:
 
-http://localhost/kiraelektrik/index.php
+http://localhost/ElectricityCalculator/index.php
+
+
 
