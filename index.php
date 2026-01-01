@@ -140,7 +140,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           POWER : <?= number_format($result["powerKW"], 5) ?> kw
         </div>
         <div class="h5 font-weight-bold text-primary mono mb-0">
-          RATE : <?= number_format($result["rateRM"], 3) ?> RM
+          RATE : RM <?= number_format($result["rateRM"], 3) ?> 
         </div>
       </div>
 
