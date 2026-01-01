@@ -1,7 +1,6 @@
 <?php
-// ==============================
 //  Electricity Calculator (PHP)
-// ==============================
+
 
 function toFloat($value) {
   // Allow commas and spaces (e.g., "3,24" -> "3.24")
@@ -39,8 +38,7 @@ function buildHourlyRows($powerKW, $rateRM, $maxHour = 24) {
   }
   return $rows;
 }
-
-// Defaults (so page still shows something nice)
+// Page
 $voltage = 19;
 $current = 3.24;
 $rateSen = 21.80;
