@@ -3,8 +3,7 @@
 
 
 function toFloat($value) {
-  // Allow commas and spaces (e.g., "3,24" -> "3.24")
-  $value = str_replace([" ", ","], ["", "."], (string)$value);
+    $value = str_replace([" ", ","], ["", "."], (string)$value);
   return is_numeric($value) ? (float)$value : null;
 }
 
@@ -39,9 +38,9 @@ function buildHourlyRows($powerKW, $rateRM, $maxHour = 24) {
   return $rows;
 }
 // Page
-$voltage = 19;
-$current = 3.24;
-$rateSen = 21.80;
+$voltage = '';
+$current = '';
+$rateSen = '';
 
 $errors = [];
 $result = null;
