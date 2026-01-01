@@ -2,7 +2,7 @@
 
 
 
-A simple vanilla PHP app to calculate:
+A vanilla PHP app to calculate:
 
 \- Power (kW)
 
