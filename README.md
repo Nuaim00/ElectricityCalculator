@@ -24,9 +24,7 @@ A vanilla PHP app to calculate:
 
 
 
-\## Run (XAMPP/WAMP/Laragon)
-
-Put the folder in your web server root, then open:
+\## Run using XAMPP/WAMP/Laragon
 
 http://localhost/ElectricityCalculator/index.php
 
